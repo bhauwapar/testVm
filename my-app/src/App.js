@@ -5,6 +5,9 @@ function App() {
   return (
     <div>
       Heading
+    <div>
+      Body
+    </div>
     </div>
   );
 }
